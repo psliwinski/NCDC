@@ -1,5 +1,3 @@
-package kosmolot;
-
 public class Kosmolot {
 
 	public static void main(String[] args) {
